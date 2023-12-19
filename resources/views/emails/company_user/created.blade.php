@@ -1,0 +1,1 @@
+ User: {{$companyUser->user->name}} successfully joined Company: {{$companyUser->company->name}} ({{$companyUser->company->country}}) as {{$companyUser->jobTitle->title}} and his salary is {{$companyUser->salary}}
